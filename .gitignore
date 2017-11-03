@@ -1,2 +1,6 @@
 # MNIST:
-MNIST_data
+/MNIST_data
+
+#CIFAR
+/models
+!/models/tutorials/image/cifar10/CNN_CIFAR.py
